@@ -1,0 +1,2 @@
+# distributed_tensorflow
+利用分布式tensorflow完成mnist数据集的训练和测试
